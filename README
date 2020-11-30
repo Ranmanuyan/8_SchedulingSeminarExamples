@@ -1,0 +1,8 @@
+
+30 Nov 2020
+
+These are some examples of Gurobi and Plotly
+to implement the scheduling.
+The first one is on parallel machine scheduling.
+The second one is on RCPSP with forbiddern set.
+The last one is on RCPSP with forbiddern set & resource flow.
